@@ -1,7 +1,9 @@
 # Table of contents
 
-* [Serverless-Go-GitBook](README.md)
+* [Serverless Go](README.md)
 
-## Group 1
+## REST Api with DynamoDB
 
-* [Hello, World](group-1/hello-world.md)
+* [Project Setup](./ProjectSetupEnvironmentVariables/01-ProjectSetup.md)
+
+
